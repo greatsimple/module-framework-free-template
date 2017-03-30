@@ -1,5 +1,7 @@
-# Module Framework free template
+# Free template of Module Framework
 
-[See demo](https://greatsimple.github.io/module-framework-demo/template-7/) | [Sketch + Photoshop](https://s3-us-west-2.amazonaws.com/gsgs/Module+Framework+Free.zip)
+Check template in a browser [See Demo](https://greatsimple.github.io/module-framework-demo/template-7/) 
 
-Free template of Module Framework (Sketch, Photoshop, HTML)
+Download archive with Design Files [Sketch + Photoshop](https://s3-us-west-2.amazonaws.com/gsgs/Module+Framework+Free.zip)
+
+Check the [full version](http://moduleframework.com) 
