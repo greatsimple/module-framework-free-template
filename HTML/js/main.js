@@ -1615,7 +1615,7 @@ $(function () {
 
 	$carousel.on('changed.owl.carousel', function () {
 
-		$owlDots.css('display', 'none');
+		$owlDots.css('display', 'block');
 		setTimeout(function () {
 			positionDots();
 		}, 800);
